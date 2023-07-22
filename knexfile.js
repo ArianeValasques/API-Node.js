@@ -12,8 +12,4 @@ module.exports = {
     //Diretório onde serão criadas e manipuladas das migrations
     directory: './src/database/migrations'
   },
-  seeds: {
-    //Diretório onde serão criadas e manipuladas as seeds
-    directory: './src/database/seeds'
-  }
 };
