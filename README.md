@@ -15,7 +15,7 @@ Tecnologias Utilizadas:
 Orientações de Instalação
 
 ```bash
-git clone https://github.com/ArianeValasques/API-Node.js
+git clone https://github.com/ArianeValasques/API-Node.js.git
 ```
 
 Instalação de dependências
